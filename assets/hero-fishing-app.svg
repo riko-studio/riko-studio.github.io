@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-label="リコの釣りアプリ活動を表す海辺のイラスト">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8fcfd"/>
+      <stop offset=".48" stop-color="#e8f7f8"/>
+      <stop offset="1" stop-color="#fdf7e8"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#c9eef1"/>
+      <stop offset=".55" stop-color="#6fc3ce"/>
+      <stop offset="1" stop-color="#1c7187"/>
+    </linearGradient>
+    <linearGradient id="phone" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#234e64"/>
+      <stop offset="1" stop-color="#102b3c"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#5eb4c3"/>
+      <stop offset="1" stop-color="#173a50"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="30" stdDeviation="28" flood-color="#16465a" flood-opacity=".2"/>
+    </filter>
+  </defs>
+  <rect width="1400" height="900" fill="url(#sky)"/>
+  <circle cx="175" cy="135" r="74" fill="#f4c873" opacity=".42"/>
+  <path d="M0 355C160 310 300 322 470 352c195 35 335-40 535-22 165 15 275 78 395 38v532H0Z" fill="url(#sea)" opacity=".94"/>
+  <path d="M0 425c190-45 340-5 540 0 240 8 385-68 610-32 112 18 190 45 250 25" fill="none" stroke="#fff" stroke-width="8" opacity=".62"/>
+  <path d="M0 515c205-36 350 7 555 15 235 10 420-52 645-20 92 13 155 33 200 26" fill="none" stroke="#fff" stroke-width="5" opacity=".45"/>
+  <path d="M0 760l1400-148v288H0Z" fill="#d9c5a4"/>
+  <path d="M0 814l1400-152M0 858l1400-145" stroke="#b59772" stroke-width="3" opacity=".32"/>
+  <g filter="url(#shadow)">
+    <rect x="902" y="142" width="295" height="570" rx="44" fill="url(#phone)"/>
+    <rect x="930" y="182" width="239" height="490" rx="30" fill="url(#screen)"/>
+    <circle cx="1050" cy="688" r="10" fill="#d7f1f3" opacity=".75"/>
+    <path d="M964 330c45-35 75 48 116 14 36-30 68-16 88 11M966 448c40-31 76 31 112 0 34-29 65-12 88 16" fill="none" stroke="#d7f1f3" stroke-width="5" stroke-linecap="round"/>
+    <g fill="#fff">
+      <ellipse cx="1024" cy="399" rx="34" ry="18"/>
+      <path d="M990 399l-30-17 7 37Z"/>
+      <circle cx="1046" cy="395" r="4" fill="#173a50"/>
+      <ellipse cx="1115" cy="512" rx="30" ry="16"/>
+      <path d="M1085 512l-26-16 5 32Z"/>
+      <circle cx="1133" cy="508" r="4" fill="#173a50"/>
+    </g>
+    <g fill="#f4c873">
+      <circle cx="982" cy="590" r="13"/>
+      <circle cx="1032" cy="590" r="13" opacity=".8"/>
+      <circle cx="1082" cy="590" r="13" opacity=".65"/>
+      <circle cx="1132" cy="590" r="13" opacity=".5"/>
+    </g>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="116" y="92" width="300" height="96" rx="20" fill="#fff" opacity=".88"/>
+    <circle cx="165" cy="140" r="28" fill="#2ba8b8"/>
+    <text x="210" y="132" fill="#18343f" font-family="Arial, sans-serif" font-size="25" font-weight="700">RIKO</text>
+    <text x="210" y="160" fill="#61737a" font-family="Arial, sans-serif" font-size="17">Fishing App Creator</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="126" y="612" width="330" height="106" rx="22" fill="#fff" opacity=".86"/>
+    <rect x="154" y="634" width="62" height="62" rx="16" fill="#fff"/>
+    <path d="M175 658c20-18 50-9 54 13-17 17-48 16-63-1Z" fill="#06428c"/>
+    <rect x="242" y="646" width="172" height="16" rx="8" fill="#d9e9eb"/>
+    <rect x="242" y="678" width="112" height="16" rx="8" fill="#cceee9"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="690" y="574" width="320" height="116" rx="22" fill="#fff" opacity=".88"/>
+    <rect x="718" y="602" width="62" height="62" rx="16" fill="#11b8ad"/>
+    <path d="M738 632a34 34 0 0 1 22-22M760 610a34 34 0 0 1 22 22M760 610v46" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+    <ellipse cx="760" cy="633" rx="18" ry="10" fill="#fff"/>
+    <rect x="806" y="614" width="166" height="16" rx="8" fill="#d9e9eb"/>
+    <rect x="806" y="647" width="112" height="16" rx="8" fill="#cceee9"/>
+  </g>
+  <path d="M268 662c210-98 420-150 650-170" fill="none" stroke="#5a4638" stroke-width="12" stroke-linecap="round"/>
+  <path d="M905 492c120-10 210 8 310 56" fill="none" stroke="#5a4638" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="266" cy="662" r="24" fill="#163b50"/>
+  <circle cx="266" cy="662" r="9" fill="#f4c873"/>
+  <g opacity=".4" fill="none" stroke-linecap="round">
+    <path d="M110 268c105-74 245-76 356-8" stroke="#7db8c1" stroke-width="26"/>
+    <path d="M68 297c132-72 320-73 450 0" stroke="#fff" stroke-width="8"/>
+  </g>
+</svg>
