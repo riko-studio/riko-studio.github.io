@@ -305,7 +305,7 @@ h1 {
   background: linear-gradient(180deg, var(--wash) 0%, var(--pale) 30%, var(--paper) 100%);
 }
 
-.app-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+.app-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; } .app-list.single-app { grid-template-columns: minmax(0, 1fr); max-width: 640px; margin: 0 auto; } .other-apps-section .app-icon { background: #fff; }
 
 .app-card {
   display: grid;
